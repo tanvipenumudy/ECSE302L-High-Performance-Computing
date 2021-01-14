@@ -1,2 +1,2 @@
-# High-Performance-Computing-Labs
-Repository to store High-Performance Computing (HPC) Labs assigned at Bennett University (Even Semester - Spring 20-21)
+# ECSE302L-High-Performance-Computing
+ECSE302L: High Performance Computing Lab Assignments
